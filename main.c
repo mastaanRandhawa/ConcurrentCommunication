@@ -1,7 +1,3 @@
-// Mastaan Randhawa & Avant Tomar
-// CMPT300 A2
-// S-Talk
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -16,7 +12,7 @@ void displayBanner(){
     printf("|                                                 |\n");
     printf("|  Welcome to My Program                          |\n");
     printf("|                                                 |\n");
-    printf("|  Developed by: Mastaan & Avant                  |\n");
+    printf("|  Developed by: Mastaan                          |\n");
     printf("|                                                 |\n");
     printf("|  s-talk syntax:                                 |\n");
     printf("|  ./s-talk (YOUR-PORT) (THEIR-IP) (THEIR-PORT)   |\n");
@@ -32,7 +28,7 @@ void displayExitBanner(){
     printf("|                                                 |\n");
     printf("|  Thank you for using our Program                |\n");
     printf("|                                                 |\n");
-    printf("|  Developed by: Mastaan & Avant                  |\n");
+    printf("|  Developed by: Mastaan                          |\n");
     printf("|                                                 |\n");
     printf("|-------------------------------------------------|\n");
 
